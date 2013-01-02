@@ -1,0 +1,2 @@
+defmodule Mckee do
+end
