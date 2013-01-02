@@ -7,14 +7,16 @@ defmodule Mckee.Mixfile do
       deps: deps ]
   end
 
-  # Configuration for the OTP application
   def application do
     []
   end
 
-  # Returns the list of dependencies in the format:
-  # { :foobar, "0.1", git: "https://github.com/elixir-lang/foobar.git" }
   defp deps do
-    []
+    [
+      { :dynamo, github: "josevalim/dynamo" },
+      { :exmarkdown, github: "mururu/exmarkdown"},
+      { :mustache, github: "mojombo/mustache.erl"},
+      { :yamler, github: "voluntas/yamler"}
+    ]
   end
 end
