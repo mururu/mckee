@@ -1,4 +1,4 @@
-defmodule Mix.Tasks.Mckee do
+defmodule Mix.Tasks.Mckee.Init do
   use Mix.Task
   import Mix.Generator
 
