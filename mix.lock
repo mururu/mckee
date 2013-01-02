@@ -1,0 +1,7 @@
+[ "cowboy": {:git,"https://github.com/extend/cowboy.git","06e74355c0a993b416b21bb4e9586c37973e8d83",[]},
+  "dynamo": {:git,"https://github.com/josevalim/dynamo.git","f2843ad06b51e9f9372e0680f6941f26fc2c564b",[]},
+  "exmarkdown": {:git,"https://github.com/mururu/exmarkdown.git","596f10dce543199988f0feb3832fe52a1d06d382",[]},
+  "mimetypes": {:git,"https://github.com/spawngrid/mimetypes.git","66ce6ebf3f296560cc8046846f8b8ee4a5ed18e7",[]},
+  "mustache": {:git,"https://github.com/mojombo/mustache.erl.git","f6499a9c0d8fb1de66f36de660d9c2b18a9b4a6a",[]},
+  "ranch": {:git,"https://github.com/extend/ranch.git","9fd9294a13375a56c42b4b77225bbe317ecf0b4d",[]},
+  "yamler": {:git,"https://github.com/voluntas/yamler.git","3b51607026ccb9281f438739b935f0a510651375",[]} ]
